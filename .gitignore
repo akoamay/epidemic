@@ -1,0 +1,13 @@
+# Java
+*.class
+*.jar
+
+# Maven
+target
+
+# Eclipse
+.project
+.classpath
+.settings
+.factorypath
+
