@@ -6,6 +6,7 @@ class Node {
     public int right;
     public int top;
     public int bottom;
+    public int lc;
 
     public Node(int id) {
         this.id = id;
